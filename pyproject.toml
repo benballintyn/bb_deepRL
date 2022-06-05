@@ -1,0 +1,11 @@
+[project]
+name = "bb_deepRL"
+description = "custom deep reinforcement learning package"
+version = "0.0.1"
+authors = [
+    { name = "Benjamin Ballintyn", email = "benballintyn@gmail.com" }
+]
+
+[build-system]
+# Minimum requirements for the build system to execute
+requires = ["setuptools", "wheel"]
